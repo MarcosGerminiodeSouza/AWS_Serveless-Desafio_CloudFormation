@@ -4,7 +4,7 @@ Neste projeto vamos criar uma infraestrutra em nuvem AWS com API Gateway, Dynamo
 
 ## Desafio DIO
 
-Este projeto é um desafio proposto na plataforma Digital Inovation One
+Este projeto é um desafio proposto na plataforma Digital Innovation One
 
 
 #### Configurar o framework Serverless
